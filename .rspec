@@ -1,5 +1,5 @@
 --color
 --format documentation
 --require spec_helper
-require_relative '../lib/position_taken.rb'
+
 
