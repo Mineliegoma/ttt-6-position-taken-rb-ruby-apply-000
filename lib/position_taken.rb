@@ -13,7 +13,7 @@ def position_taken?( board, index)
   else 
     #board[index] != "X" || board[index] != "0"
   truelearn
-  
+  true
 
   end
   
