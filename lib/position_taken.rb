@@ -8,11 +8,13 @@ def position_taken?( board, index)
    #true
   #else
     #false
-   if board[index] != " " || board[index] != ""
-    true
+   if board[index] = " " || board[index] = ""
+    false
   else 
     #board[index] != "X" || board[index] != "0"
-  false
+  truelearn
+  
 
   end
+  
 end
